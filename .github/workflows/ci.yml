@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main]
+    branches: [validation/637-f42a]
   pull_request:
     branches: [main]
 
